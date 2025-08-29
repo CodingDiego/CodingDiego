@@ -48,14 +48,15 @@ A complete set of modern technologies to build scalable and high-performance app
 
 ---
 
-### Selected work
+### Selected Projects
 
-Here's a sample of the kind of work I build. For more, visit my portfolio.
+Here are some of the projects I've worked on:
 
-- Modern, responsive web apps with secure authentication and role‑based access
-- REST/GraphQL APIs with solid domain modeling and comprehensive testing
-- Real‑time features, background jobs, and third‑party integrations
-- Production‑ready deployments with CI/CD, containerization, and monitoring
+- **[Alquileres Temporales](https://alquilerestemporales.com.ar)** - Vacation rental platform
+- **[Berrini Automotores](https://berriniautomotores.com.ar)** - Automotive dealership website
+- **[Cleat.ai](https://cleat.ai)** - AI-powered platform
+
+For more details and additional work, visit my portfolio.
 
 Portfolio: [codingdiego.dev](https://codingdiego.dev)
 
