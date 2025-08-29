@@ -1,4 +1,4 @@
-## Diego Valentino Palacios
+# Diego Valentino Palacios
 
 **Full‑Stack Developer · Systems Engineering**
 
