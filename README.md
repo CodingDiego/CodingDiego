@@ -10,7 +10,7 @@
 
 ---
 
-### About me
+## About me
 
 I'm a full‑stack developer passionate about building robust, scalable, and delightful web products end‑to‑end. I care about code quality, developer experience, performance, and accessibility. I enjoy owning features across the stack—from clean, responsive UIs to reliable APIs and databases. Bilingual (Spanish/English) and also trying to learn some German.
 
