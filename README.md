@@ -1,6 +1,6 @@
-## Diego Valentino Palacios
+# Diego Valentino Palacios
 
-**Full‑Stack Developer · Ingeniería en Sistemas**
+**Full‑Stack Developer · Systems Engineering**
 
 - **Portfolio & Blog**: [codingdiego.dev](https://codingdiego.dev)
 - **GitHub**: [@codingdiego](https://github.com/codingdiego)
@@ -12,7 +12,7 @@
 
 ### About me
 
-I'm a full‑stack developer passionate about building robust, scalable, and delightful web products end‑to‑end. I care about code quality, developer experience, performance, and accessibility. I enjoy owning features across the stack—from clean, responsive UIs to reliable APIs and databases. Bilingual (Spanish/English).
+I'm a full‑stack developer passionate about building robust, scalable, and delightful web products end‑to‑end. I care about code quality, developer experience, performance, and accessibility. I enjoy owning features across the stack—from clean, responsive UIs to reliable APIs and databases. Bilingual (Spanish/English) and also trying to learn some German.
 
 ---
 
