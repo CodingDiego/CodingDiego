@@ -19,7 +19,7 @@ I'm a full‑stack developer passionate about building robust, scalable, and del
 ### What I do
 
 - **Product engineering**: ship features from idea to production with user‑centric iteration
-- **Frontend**: modern component‑based UIs, state/data fetching, performance & a11y
+- **Frontend**: modern component‑based UIs, state/data fetching, performance.
 - **Backend**: API design, authentication/authorization, database modeling, integrations
 - **Quality & delivery**: testing, CI/CD, observability, and maintainable architectures
 
