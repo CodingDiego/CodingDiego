@@ -1,6 +1,6 @@
 ## Diego Valentino Palacios
 
-**Full‑Stack Developer · Ingeniería en Sistemas**
+**Full‑Stack Developer · Systems Engineering**
 
 - **Portfolio & Blog**: [codingdiego.dev](https://codingdiego.dev)
 - **GitHub**: [@codingdiego](https://github.com/codingdiego)
