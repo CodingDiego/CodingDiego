@@ -73,7 +73,6 @@ Portfolio: [codingdiego.dev](https://codingdiego.dev)
 
 - Email: [palaciosdiegovalentino@gmail.com](mailto:palaciosdiegovalentino@gmail.com)
 - LinkedIn: [diego-valentino-palacios](https://linkedin.com/in/diego-valentino-palacios)
-- Portfolio: [codingdiego.dev](https://codingdiego.dev)
 
 If you're hiring or would like to collaborate, I'm happy to chat.
 
