@@ -55,7 +55,7 @@ Here are some of the projects I've worked on:
 - **[Alquileres Temporales](https://alquilerestemporales.com.ar)** - Vacation rental platform
 - **[Berrini Automotores](https://berriniautomotores.com.ar)** - Automotive dealership website
 - **[Cleat.ai](https://cleat.ai)** - AI-powered platform
-
+- **[Lotia - Marketplace](https://rosario-garage.com)** - Marketplace
 For more details and additional work, visit my portfolio.
 
 Portfolio: [codingdiego.dev](https://codingdiego.dev)
