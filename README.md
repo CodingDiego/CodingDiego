@@ -56,6 +56,7 @@ Here are some of the projects I've worked on:
 - **[Berrini Automotores](https://berriniautomotores.com.ar)** - Automotive dealership website
 - **[Cleat.ai](https://cleat.ai)** - AI-powered platform
 - **[Lotia - Marketplace](https://rosario-garage.com)** - Marketplace
+- **[Aural Sei Helados](https://aural-sei-helados.vercel.app)** - Ice Cream shop Managing app
 For more details and additional work, visit my portfolio.
 
 Portfolio: [codingdiego.dev](https://codingdiego.dev)
