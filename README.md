@@ -6,7 +6,6 @@
 - **GitHub**: [@codingdiego](https://github.com/codingdiego)
 - **LinkedIn**: [diego-valentino-palacios](https://linkedin.com/in/diego-valentino-palacios)
 - **Email**: [palaciosdiegovalentino@gmail.com](mailto:palaciosdiegovalentino@gmail.com)
-- **Phone**: [+54 3465 404967](tel:+54%203465%20404967)
 
 ---
 
