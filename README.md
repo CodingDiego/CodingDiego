@@ -22,7 +22,6 @@ Bilingual (Spanish/English), learning some German. Open to work and collaboratio
 - **[Secret Store](https://secretstore.sh)** — a hosted secrets vault for apps and teams, like a password manager for `.env` files. Projects with environments, versioned encrypted secrets, encrypted files, shared access with roles, and an OAuth 2.1 + MCP server so coding agents can fetch secrets only after you approve them. Built with Next.js 16, ElysiaJS (typed end to end with Eden), Bun, Neon Postgres and Vercel, with envelope encryption, passkeys and a Tauri desktop shell.
 - **[rexplorer](https://github.com/CodingDiego/rexplorer)** — a fast Windows file manager in Rust that replaces Explorer's folder windows. It hosts the Windows shell namespace through plain Win32 controls, so context menus, icons, drag and drop and live updates all come from the shell. Enumerates a 100,000-file folder in about 150 ms. MIT licensed.
 - **[CV Maker](https://github.com/CodingDiego/cvmaker)** — free, open-source CV builder at [free-cv.com](https://free-cv.com) (AGPL-3.0).
-- **[Auralis Turnos](https://github.com/CodingDiego/Auralis-Turnos-Consultorio)** — digital agenda for a psychology practice: appointments, patients, tasks and reminders.
 
 ---
 
