@@ -55,10 +55,6 @@ Bilingual (Spanish/English), learning some German. Open to work and collaboratio
 - **[Berrini Automotores](https://berriniautomotores.com.ar)** — automotive dealership site and management
 - **[Cleat.ai](https://cleat.ai)** — AI-powered platform
 - **[Lotia Marketplace](https://rosario-garage.com)** — marketplace
-- **[Aural Sei Helados](https://aural-sei-helados.vercel.app)** — ice cream shop management app
-
-More in my portfolio: [codingdiego.dev](https://codingdiego.dev)
-
 ---
 
 ## Also on GitHub
