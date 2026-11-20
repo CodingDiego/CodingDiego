@@ -6,7 +6,8 @@
 [![Secret Store](https://img.shields.io/badge/Building-secretstore.sh-6E56CF)](https://secretstore.sh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-diego--valentino--palacios-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/diego-valentino-palacios)
 [![Email](https://img.shields.io/badge/Email-palaciosdiegovalentino@gmail.com-EA4335?logo=gmail&logoColor=fff)](mailto:palaciosdiegovalentino@gmail.com)
-
+[![Socket Badge](https://badge.socket.dev/npm/package/@secretstore/cli/3.3.13)](https://badge.socket.dev/npm/package/@secretstore/cli/3.3.13)
+[![Secret Store MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/sh.secretstore/secret-store/badges/score.svg)](https://glama.ai/mcp/connectors/sh.secretstore/secret-store)
 ---
 
 ## About me
